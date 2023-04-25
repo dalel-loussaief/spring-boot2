@@ -1,0 +1,9 @@
+com\dalel\vetements\service\VetementServiceImpl.class
+com\dalel\vetements\controllers\VetementsControllers.class
+com\dalel\vetements\entities\Vetement.class
+com\dalel\vetements\restcontroller\VetementRESTController.class
+com\dalel\vetements\VetementsApplication.class
+com\dalel\vetements\entities\VetementProjection.class
+com\dalel\vetements\repos\VetementRepository.class
+com\dalel\vetements\service\VetementService.class
+com\dalel\vetements\entities\Genres.class
